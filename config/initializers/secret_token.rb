@@ -1,0 +1,1 @@
+FirstApp::Application.config.secret_token = '531f3a34b4cb5df97cd6c53e4ed59bf9aaa280968c2093634e78e0b0e79cac9189843f11d747f6a685f1573b226fa55acdc77726d5a39dca4b27de12e3c6941e'
